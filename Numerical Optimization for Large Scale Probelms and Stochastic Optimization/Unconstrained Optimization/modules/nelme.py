@@ -13,7 +13,8 @@ def nelmead(f, x_0, adaptive=False, max_iter=10000, tol=1e-5, verbose=True):
         S_seq = []
         fS_seq = []
     
-    if adaptive:
+    if adaptive: 
+        # "Implementing the Nelder-Mead simplex algorithm with adaptive parameters", Fuchang Gao and Lixing Han
         rho = 1
         chi = 1 + 2 / N
         gamma = 0.75 - 1 / (2 * N)
