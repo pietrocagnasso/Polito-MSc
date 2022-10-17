@@ -1,0 +1,1 @@
+This project was a useful opportunity to work in team and explore the interesting topic of Federated Learning. This project was a useful opportunity to work in groups and explore the interesting topic of federated learning. This project was done in collaboration with [@nicolovergaro](https://github.com/nicolovergaro) and [@GiuseppeGalilei](https://github.com/GiuseppeGalilei).
