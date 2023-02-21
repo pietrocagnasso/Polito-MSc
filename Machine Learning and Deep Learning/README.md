@@ -2,6 +2,8 @@
 ## Machine Learning and Deep Learning - DSE @ PoliTO ay 2021-2022
 This is the project I carried out with [@nicolovergaro](https://github.com/nicolovergaro) and [@GiuseppeGalilei](https://github.com/GiuseppeGalilei) for the exam in July 2022.
 
+Professors: Barbara Caputo, Debora Caldarola.
+
 Goals:
 * implement a **centralized baseline** to define an upper bound
 * implement a **federated baseline** (FedAvg)
