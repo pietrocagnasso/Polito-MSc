@@ -1,8 +1,8 @@
 # Probabilistic Context Extraction For Extractive Highlights Extraction
 
-## Deep Natural Language Processing project - DSE @ PoliTO ay 2022-2023
+## Deep Natural Language Processing - DSE @ PoliTO ay 2022-2023
 
-This is the project I carried out with [@nicolovergaro](https://github.com/nicolovergaro), [@LucaMarcellino](https://github.com/LucaMarcellino) and [lucavillanigit](https://github.com/lucavillanigit).
+This is the project I carried out with [@nicolovergaro](https://github.com/nicolovergaro), [@LucaMarcellino](https://github.com/LucaMarcellino) and [lucavillanigit](https://github.com/lucavillanigit) for the exam in February 2023.
 
 Some useful links:
 * Original [repository](https://github.com/nicolovergaro/DNLP_project)
