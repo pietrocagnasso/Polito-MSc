@@ -1,8 +1,15 @@
-# Deep Natural Language Processing project
+# Probabilistic Context Extraction For Extractive Highlights Extraction
 
-Project carried out for the exam of DNLP course at Politecnico di Torino a.y. 2022-2023.
+## Deep Natural Language Processing project - DSE @ PoliTO ay 2022-2023
 
-Professor: Luca Cagliero, Moreno La Quatra.
+This is the project I carried out with [@nicolovergaro](https://github.com/nicolovergaro), [@LucaMarcellino](https://github.com/LucaMarcellino) and [lucavillanigit](https://github.com/lucavillanigit).
+
+Some useful links:
+* Original [repository](https://github.com/nicolovergaro/DNLP_project)
+* Final [report](https://github.com/pietrocagnasso/Polito-MSc/blob/main/Deep%20Natural%20Language%20Processing/Report.pdf)
+* Exam presentation [slides](https://github.com/pietrocagnasso/Polito-MSc/blob/main/Deep%20Natural%20Language%20Processing/Slides.pdf)
+
+Professors: Luca Cagliero, Moreno La Quatra.
 
 ## First extension
 Thit first extension is a title generation task. The employed model is BART starting from the pretrained version [distilbart](https://huggingface.co/sshleifer/distilbart-cnn-12-6). We have fine-tuned this model for one epoch on all the three datasets available to let the model learn how the title of scientific papers are built, then a second fine-tuning epoch was performed on each dataset to specialize the models.
